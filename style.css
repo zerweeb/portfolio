@@ -1,0 +1,55 @@
+body { background-color:rgb(194, 112, 205);
+cursor:url('https://res.cloudinary.com/dvkugaw3b/image/upload/v1641562028/cursor_ad12rf.png'),auto
+}
+div {
+    text-align: center; 
+    box-sizing: border-box; 
+
+}
+p {font-size: 12pt;
+    border-top-style:solid ;
+    border-bottom-style:solid;
+    border-left-style:double;
+    border-right-style:double;
+    padding:5px;
+    margin: 50px;
+}
+h1{font-size:20pt}
+
+h2{background-color: aqua;
+    font-size:24pt;
+    
+}
+ 
+h3 {font-size:200%;
+    background-color: deeppink;
+    font-style: bold;
+
+ }
+ 
+ul {
+    font-size: 125%;
+}
+
+p.phone{font-size: 13pt;
+    height: 15px;
+    margin-left: 600pt;
+    margin-right: 600pt;
+
+}
+
+p.email{
+    height:15px;
+    margin-left:600pt;
+    margin-right:600pt;
+
+}
+
+p.favorite{border:none;
+    border-bottom-style:dashed;
+    margin-left:450pt;
+    margin-right:450pt;
+    font-size: 15pt;
+    font-style:Comic
+
+}
