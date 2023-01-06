@@ -14,7 +14,9 @@ p {font-size: 12pt;
     padding:5px;
     margin: 50px;
 }
-h1{font-size:20pt}
+h1{font-size:20pt;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
 
 h2{background-color: aqua;
     font-size:24pt;
@@ -49,7 +51,7 @@ p.favorite{border:none;
     border-bottom-style:dashed;
     margin-left:450pt;
     margin-right:450pt;
-    font-size: 15pt;
-    font-style:Comic
+    font-size: 17pt;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 
 }
